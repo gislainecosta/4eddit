@@ -30,5 +30,5 @@ Projeto semanal do curso feito em conjunto com mais um colega que consistia em r
 <br>
 <br>
 
-🤝## Co-autores
-[(Bernardo Arduini Alvim Sabino)](https://github.com/bernardoarduini/)
+## Co-autores
+🤝[(Bernardo Arduini Alvim Sabino)](https://github.com/bernardoarduini/)
