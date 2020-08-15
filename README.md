@@ -1,6 +1,6 @@
-# Labenux
+# 4eddit
 
-Projeto semanal do curso que consistia em criar um site que vende viagens espaciais.
+Projeto semanal do curso feito em conjunto com mais um colega que consistia em replicar a rede social reddit.
 <br>
 <br>
 ## Principais tecnologias/ferramentas utilizadas
@@ -29,3 +29,6 @@ Projeto semanal do curso que consistia em criar um site que vende viagens espaci
 </p>
 <br>
 <br>
+
+🤝## Co-autores
+[(Bernardo Arduini Alvim Sabino)](https://github.com/bernardoarduini/)
