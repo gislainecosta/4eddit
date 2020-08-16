@@ -1,0 +1,4 @@
+azul-escuro #415259
+cinza #a1b9c1
+laranja #ff782e
+bege #feb059
